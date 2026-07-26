@@ -84,6 +84,40 @@ Pacient skoro nikdy neřekne účinnou látku. Rychlý převod:
 > zhoršuje anestezii i hemostázu. Nevynechávej ho preventivně "pro jistotu" — riziko je
 > reálné hlavně u neselektivních BB a nestabilních kardiaků.
 
+### Artikain — dávkování
+
+Přípravky v ČR: **Ubistesin / Ubistesin forte, Septanest 1:100 000 a 1:200 000, Supracain**.
+Vždy 4% roztok = **40 mg/ml**, karpule **1,7 ml = 68 mg artikainu**.
+
+Adrenalin v karpuli: **1:100 000 = 17 µg**, **1:200 000 = 8,5 µg**.
+
+**Dospělí: max. 7 mg/kg, absolutní strop 500 mg** (= 12,5 ml ≈ 7 karpulí).
+Orientační efektivní dávka 2 mg/kg u jednoduchého, 4 mg/kg u složitého výkonu.
+
+| Pacient | Max. dávka artikainu | Karpulí à 1,7 ml |
+|---|---|---|
+| Dospělý 50 kg | 350 mg | 5 |
+| Dospělý 60 kg | 420 mg | 6 |
+| Dospělý ≥ 70 kg | 500 mg (absolutní strop) | 7 |
+| Dítě 20 kg (≈ 4 roky) | 100–140 mg | 1,5–2 |
+| Dítě 30 kg | 150–210 mg | 2–3 |
+| Dítě 40 kg | 200–280 mg | 3–4 |
+
+- **[?] Děti — SPC se rozcházejí.** Septanest 1:100 000 uvádí **5 mg/kg**, Ubistesin a Septanest
+  1:200 000 **7 mg/kg** (absolutní max. 385 mg). Rozdíl jde patrně za koncentrací adrenalinu.
+  Ověř SPC svého přípravku, u dětí se drž spíš nižší hodnoty.
+- **Pod 4 roky (≈ 20 kg) artikain nepodávej** — bezpečnost nestanovena.
+- **Limitem bývá adrenalin, ne artikain.** U kardiaka a u pacienta na TCA se cituje strop
+  ~0,04 mg adrenalinu = **2 karpule 1:100 000** (nebo 4 karpule 1:200 000) — na ten narazíš
+  dřív než na 7 mg/kg.
+- **Starší, jaterní a renální insuficience:** nejnižší účinná dávka. Artikain se z velké části
+  štěpí plazmatickými esterázami (poločas ~20–30 min), takže je v tomhle šetrnější než amidová
+  LA metabolizovaná výhradně játry.
+- **Siřičitany** (metabisiřičitan jako stabilizátor adrenalinu) — opatrně u astmatika
+  se sulfitovou přecitlivělostí.
+- **[?] Parestezie po svodné mandibulární anestezii** u 4% roztoků je opakovaně diskutovaná,
+  kauzalita neprokázaná. Není důvod artikain neužívat, jen běžná opatrnost u svodné.
+
 ---
 
 ## 3. Antibiotika v zubní ambulanci
@@ -282,7 +316,8 @@ předepisujícímu lékaři.
 
 ## Zdroje, ze kterých přehled vychází
 
-- SÚKL — SPC jednotlivých přípravků (`prehledy.sukl.cz`)
+- SÚKL — SPC jednotlivých přípravků (`prehledy.sukl.cz`), mj. Ubistesin / Ubistesin forte,
+  Septanest 1:100 000 a 1:200 000, Supracain — dávkování artikainu
 - ČSK — Odborné stanovisko představenstva č. 1/2023: racionální indikace systémových ATB
   v ambulantní péči zubního lékařství (LKS 1/2024)
 - Česká kardiologická společnost — česká příloha evropských doporučení pro prevenci
