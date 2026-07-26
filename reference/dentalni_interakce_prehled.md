@@ -25,6 +25,7 @@ nebo začneš invazivní výkon**:
 | Tricyklická antidepresiva | Adrenalin v LA |
 | Imunosupresiva, biologika, systémové kortikoidy | Hojení, riziko infekce, ATB profylaxe |
 | Azolová antimykotika (flukonazol, itrakonazol) | CYP3A4 — sedace, statiny, warfarin |
+| Perorální retinoidy (isotretinoin, acitretin, alitretinoin) | **Nikdy tetracykliny** — nitrolební hypertenze. Xerostomie, křehká gingiva. |
 | Anamnéza IE / chlopenní náhrada / vrozená srdeční vada | ATB profylaxe endokarditidy |
 
 **Vždy se ptej na:** kompletní seznam léků (včetně volně prodejných a doplňků), alergie,
@@ -59,6 +60,9 @@ Pacient skoro nikdy neřekne účinnou látku. Rychlý převod:
 | Trombex, Godasal — pozor na záměnu | — | ověř vždy |
 | Prolia | denosumab | antiresorptivum |
 | Fosamax, Alendronat | alendronát | bisfosfonát |
+| Curacné, Aknenormin, Roaccutane, Isotretinoin | isotretinoin | perorální retinoid |
+| Neotigason | acitretin | perorální retinoid |
+| Toctino | alitretinoin | perorální retinoid |
 
 > Kardioselektivní betablokátory (bisoprolol, metoprolol, atenolol) mají s adrenalinem
 > **menší** riziko než neselektivní (propranolol, sotalol) — viz sekce 2.
@@ -97,6 +101,36 @@ Nejčastěji: amoxicilin, amoxicilin/klavulanát, klindamycin, metronidazol, azi
 | Amoxicilin + hormonální antikoncepce | 🟢 klinicky nevýznamné (mýtus) | Reálně snižují účinnost jen induktory (rifampicin). Poučit jen pro případ zvracení/průjmu. |
 | Metronidazol + alkohol | 🟡 **[?] evidence slabá** | Viz rámeček níže. |
 | Fluorochinolony + antacida / Ca / Fe / mléko | 🟡 snížená absorpce ATB | Rozestup ≥ 2 h. |
+| **Tetracykliny (doxycyklin, minocyklin) + perorální retinoidy** | 🔴 **kontraindikace** — benigní nitrolební hypertenze | Viz níže. |
+
+### Perorální retinoidy + antibiotika — hlavně nedávej tetracykliny
+
+Pacienti na isotretinoinu (**Curacné, Aknenormin, Roaccutane**) pro akné, acitretinu
+(**Neotigason**) pro psoriázu nebo alitretinoinu (**Toctino**) pro ekzém rukou.
+
+| Kombinace | Riziko | Poznámka |
+|---|---|---|
+| Retinoid + **tetracykliny** (doxycyklin, minocyklin, tetracyklin) | 🔴 **kontraindikace** dle SPC | Obě látky zvyšují nitrolební tlak, kombinace riziko potencuje (pseudotumor cerebri). Platí i pro **subantimikrobiální doxycyklin u parodontitidy**. |
+| Retinoid + amoxicilin ± klavulanát, azitromycin, klindamycin, metronidazol | 🟢 bez významné interakce | Volná volba pro odontogenní infekci. |
+| Retinoid + co-amoxiclav u delší kúry | 🟡 hepatotoxicita | Retinoidy zvyšují transaminázy; u standardní 5–7denní kúry to není důvod měnit volbu. |
+| Acitretin + metotrexát | 🔴 **kontraindikace** — hepatitida | Není ATB, ale patří ke stejnému screeningu. |
+
+**Nitrolební hypertenze — varovné příznaky:** bolest hlavy, nauzea a zvracení, poruchy vidění,
+městnavá papila. Vysadit a odeslat, neodkládat.
+
+**Teratogenita:** retinoidy jsou absolutně teratogenní, pacientky jsou v Programu prevence
+početí. Když jim předepisuješ ATB, platí to samé co výše — pokles účinnosti hormonální
+antikoncepce je u aminopenicilinů mýtus, reálný jen u induktorů (rifampicin). Poučit pro
+případ zvracení a průjmu.
+
+**Odklad chirurgie kvůli isotretinoinu?** **[?]** Klasické doporučení „počkat 6–12 měsíců po
+vysazení" stojí na třech malých kazuistických sériích z 80. let. Systematický přehled i práce
+cílená přímo na extrakce třetích molárů odklad nepodporují; recentní literatura se kloní
+k tomu, že běžnou dentoalveolární chirurgii odkládat netřeba. Konsenzus ale není jednotný —
+u rozsáhlých estetických výkonů buď opatrnější.
+
+**Co uvidíš v ústech:** xerostomie (→ kazivost, fluoridace, substituce slin), cheilitis,
+křehká a snadno krvácející gingiva. Šetrněji s retrakcí a odsáváním.
 
 ### Metronidazol a alkohol — co skutečně platí
 
@@ -257,3 +291,6 @@ předepisujícímu lékaři.
 - SDCEP — *Drug Prescribing for Dentistry* (`sdcepdentalprescribing.nhs.scot`)
 - AHA 2021 — Prevention of Infective Endocarditis (stanovisko ke klindamycinu)
 - Visapää et al. 2002; case-control studie 2023; *British Dental Journal* — metronidazol a alkohol
+- SPC Curacné / Aknenormin (isotretinoin) a Neotigason (acitretin) — kontraindikace tetracyklinů
+  a metotrexátu; Waldman et al., *JAMA Dermatol* 2017 a *J Cutan Med Surg* 2017 — načasování
+  výkonů při isotretinoinu
