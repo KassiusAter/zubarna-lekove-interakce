@@ -127,11 +127,14 @@ těhotenství/kojení, ledviny/játra, hmotnost u dětí a drobných seniorů.
 | Colchicum-Dispert | kolchicin | antiuratikum |
 | Paxlovid | nirmatrelvir + ritonavir | antivirotikum, silný inhibitor CYP3A4 |
 
-### Lokální anestetika — **[?] ředění adrenalinu vždy ověř na karpuli**
+### Lokální anestetika
+
+Supracain **ověřen 2026-11-10** proti příbalové informaci (revize 14. 11. 2019). Ostatní
+přípravky **[?]** — ředění adrenalinu ověř na karpuli.
 
 | Obchodní název | Účinná látka | Adrenalin |
 |---|---|---|
-| Supracain 4 % | artikain + adrenalin | 1 : 200 000 |
+| Supracain 40 mg/ml + 5 µg/ml | artikain 4 % + adrenalin, **ampulka 2 ml** | 1 : 200 000 |
 | Ubistesin | artikain 4 % + adrenalin | 1 : 200 000 |
 | Ubistesin forte | artikain 4 % + adrenalin | 1 : 100 000 |
 | Septanest s adrenalinem | artikain 4 % + adrenalin | 1 : 100 000 nebo 1 : 200 000 podle varianty |
@@ -155,7 +158,10 @@ těhotenství/kojení, ledviny/játra, hmotnost u dětí a drobných seniorů.
 
 ## 2. Lokální anestetika s vazokonstriktorem (adrenalin)
 
-**Stav:** ☐ nevalidováno lékařem · obecná farmakologie, **neověřeno proti primárnímu zdroji**
+**Stav:** ☐ nevalidováno lékařem · obecná farmakologie; výčet interagujících léků, dávkování
+a upozornění u artikainu s adrenalinem **porovnány 2026-11-10** s příbalovou informací
+Supracainu (část pro zdravotníky, revize 14. 11. 2019). Příbalová informace neuvádí stupeň
+závažnosti — barvy 🔴/🟡 jsou orientační.
 
 | Kombinace | Riziko | Poznámka |
 |---|---|---|
@@ -163,10 +169,25 @@ těhotenství/kojení, ledviny/játra, hmotnost u dětí a drobných seniorů.
 | Karvedilol + adrenalin | 🟡 **[?]** | Neselektivní, ale s vlastní α-blokádou — hypertenzní odpověď je méně pravděpodobná. Postupuj opatrně jako u neselektivních. |
 | Kardioselektivní BB (bisoprolol, metoprolol, nebivolol) + adrenalin | 🟢–🟡 riziko výrazně nižší | Běžné dávky LA obvykle bez problému. |
 | Tricyklická antidepresiva (amitriptylin) + adrenalin | 🟡 potenciace presorického efektu | Běžně citovaný limit ~0,04 mg adrenalinu. **[?]** limit se mezi zdroji liší — ověř. |
-| Neselektivní IMAO + adrenalin | 🔴 hypertenzní krize | V ČR vzácné. |
-| Inhibitory COMT (entakapon) + adrenalin | 🟡 **[?]** | Možné zesílení účinku katecholaminů — minimální dávka. |
-| Kokain (i anamnesticky, posledních 24 h) + adrenalin | 🔴 arytmie, ischemie myokardu | Při podezření výkon odložit. |
-| Nekontrolovaná hypertenze, IM < 6 týdnů, nestabilní AP | 🟡 zvážit LA bez adrenalinu | Spíš odložit elektivní výkon. |
+| Inhibitory MAO (moklobemid, tranylcypromin; také antibiotikum **linezolid**) + adrenalin | 🔴 hypertenzní krize | Uvedeno v příbalové informaci Supracainu. |
+| Inhibitory COMT (entakapon, tolkapon) + adrenalin | 🟡 | Uvedeno v příbalové informaci Supracainu. Minimální dávka. |
+| Sympatomimetika v posledních 24 h — kokain, amfetaminy, **pseudoefedrin, fenylefrin, oxymetazolin** (léky na rýmu a nachlazení) | 🔴 arytmie, hypertenze | Příbalová informace Supracainu: plánovaný výkon **odložit**. |
+| Digoxin, chinidin + adrenalin | 🟡 arytmie | Uvedeno v příbalové informaci Supracainu. |
+| Ergotamin, methysergid (migréna) + adrenalin | 🟡 | Uvedeno v příbalové informaci Supracainu. |
+| Fenothiaziny a jiná neuroleptika + adrenalin | 🟡 hypotenze | Uvedeno v příbalové informaci Supracainu. |
+| Sedativa (benzodiazepiny, opioidy) + LA | 🟡 aditivní útlum CNS | Maximální bezpečná dávka LA se u sedovaných snižuje. |
+| Inhibitory acetylcholinesterázy, deficit plazmatické cholinesterázy + artikain | 🟡 vyšší hladiny artikainu | Artikain je z 90 % inaktivován plazmatickými esterázami. Nejnižší účinná dávka. |
+| Nekontrolovaná hypertenze, nestabilní AP, nedávný IM | 🟡 zvážit LA bez adrenalinu | Spíš odložit elektivní výkon. Příbalová informace Supracainu vyžaduje opatrnost při srdeční příhodě v posledních 3–6 měsících a bypassu v posledních 3 měsících. |
+
+**Další upozornění z příbalové informace Supracainu:**
+- **Kontraindikace:** alergie na artikain, adrenalin nebo jiné lokální anestetikum;
+  nedostatečně kontrolovaná epilepsie.
+- **Opatrnost:** věk nad 70 let, poruchy srdečního rytmu (AV blok II.–III. stupně), akutní
+  srdeční selhání, hypotenze, porucha ledvin, těžká porucha jater, myasthenia gravis, porfyrie,
+  tyreotoxikóza, feochromocytom, glaukom s uzavřeným úhlem, nekontrolovaný diabetes.
+- **Disiřičitan sodný** v roztoku: vzácně těžká alergická reakce a bronchospasmus — pozor
+  u astmatiků a při alergii na siřičitany.
+- **Alkohol** příbalová informace mezi interakcemi ani upozorněními neuvádí.
 
 > **Pozor na proporce:** u naprosté většiny pacientů je adrenalin v LA bezpečný a jeho vynechání
 > zhoršuje anestezii i hemostázu. Nevynechávej ho preventivně „pro jistotu" — riziko je
@@ -174,14 +195,27 @@ těhotenství/kojení, ledviny/játra, hmotnost u dětí a drobných seniorů.
 
 ### Kolik adrenalinu je v karpuli
 
-| Ředění | mg/ml | V karpuli 1,7 ml |
-|---|---|---|
-| 1 : 100 000 | 0,010 | 0,017 mg |
-| 1 : 200 000 | 0,005 | 0,0085 mg |
+| Ředění | mg/ml | V karpuli 1,7 ml | V ampulce 2 ml (Supracain) |
+|---|---|---|---|
+| 1 : 100 000 | 0,010 | 0,017 mg | — |
+| 1 : 200 000 | 0,005 | 0,0085 mg | 0,010 mg |
 
-Limit 0,04 mg tedy odpovídá přibližně 2 karpulím 1 : 100 000 nebo 4 karpulím 1 : 200 000.
+Limit 0,04 mg tedy odpovídá přibližně 2 karpulím 1 : 100 000, 4 karpulím 1 : 200 000 nebo
+4 ampulkám Supracainu.
 
-### Maximální dávky LA — **[?] celé ověř v SPC konkrétního přípravku**
+### Supracain — dávkování podle příbalové informace (ověřeno 2026-11-10)
+
+- 1 ampulka 2 ml = **80 mg artikainu** + 0,010 mg adrenalinu.
+- Dospělí a dospívající 12–18 let: max. **7 mg/kg**, absolutně max. **500 mg** (= 6 ampulek;
+  platí pro zdravého dospělého nad 70 kg). Běžná dávka pro rutinní zákrok je 1 ampulka.
+- Děti 4–11 let: průměrná účinná dávka **2 mg/kg** u jednoduchých a **4 mg/kg** u komplexních
+  zákroků; max. 7 mg/kg, absolutně max. 385 mg. Do 4 let (cca 20 kg) bezpečnost nestanovena.
+- Senioři, porucha ledvin nebo jater: nejnižší účinná dávka, pozor na opakované podání.
+- Sedovaný pacient: maximální bezpečná dávka se snižuje.
+- Podávat pomalu (**1 ml/min**) a vždy po aspiraci.
+- Orientačně: *hmotnost × 7 ÷ 80 = max. počet ampulek* (60 kg → 5, 40 kg → 3,5, 20 kg → 1,75).
+
+### Maximální dávky ostatních LA — **[?] ověř v SPC konkrétního přípravku**
 
 | Anestetikum | Max. dávka | Obsah v karpuli |
 |---|---|---|
@@ -454,7 +488,7 @@ lékaři.
 | **Tetracykliny (doxycyklin)** | ❌ **kontraindikováno** — zabarvení zubů plodu | ❌ |
 | Flukonazol systémově | ❌ vyhnout se; lokálně nystatin | ⚠️ |
 | Midazolam | ❌ vyhnout se | ⚠️ |
-| LA s adrenalinem (artikain, lidokain) | ✅ v běžných dávkách přijatelné | ✅ |
+| LA s adrenalinem (artikain, lidokain) | ✅ v běžných dávkách přijatelné; příbalová informace Supracainu ponechává rozhodnutí na lékaři | ✅ Supracain: kojení lze obnovit **5 hodin po anestezii** |
 | RTG snímek | ✅ dávka zanedbatelná; elektivní odložit. **[?]** Nutnost stínicí zástěry některá novější doporučení zpochybňují — řiď se českými předpisy. | ✅ |
 
 ---
@@ -469,7 +503,7 @@ lékaři.
 | Kodein | ❌ do 12 let |
 | Tramadol | ❌ u malých dětí — věkovou hranici ověř v SPC |
 | Tetracykliny (doxycyklin) | ❌ do 8 let (zabarvení zubů); v profylaxi IE ne do 12 let |
-| Artikain | ne do 4 let |
+| Artikain (Supracain) | ne do 4 let (cca 20 kg); 2 mg/kg jednoduché, 4 mg/kg komplexní zákroky, max. 7 mg/kg — ověřeno v příbalové informaci |
 | Paracetamol | 10–15 mg/kg po 4–6 h, max. 60 mg/kg/den |
 | Ibuprofen | 5–10 mg/kg po 6–8 h, max. 30 mg/kg/den; od 3 měsíců věku |
 | Amoxicilin v profylaxi IE | 50 mg/kg, max. 2 g |
@@ -513,5 +547,8 @@ Dítě vždy zvážit nebo se zeptat na aktuální hmotnost — odhad podle věk
 - SDCEP — *Drug Prescribing for Dentistry* (`sdcepdentalprescribing.nhs.scot`)
 - ČSK — Odborné stanovisko představenstva č. 1/2023: racionální indikace systémových ATB
   v ambulantní péči zubního lékařství (LKS 1/2024)
+- Supracain 40 mg/ml + 5 µg/ml injekční roztok — příbalová informace včetně části pro
+  zdravotnické pracovníky, sp. zn. sukls236417/2019, revize 14. 11. 2019 —
+  **sekce 2 a údaje o Supracainu porovnány 2026-11-10**
 - SÚKL — SPC jednotlivých přípravků
 - Visapää et al. 2002; case-control studie 2023; *British Dental Journal* — metronidazol a alkohol
