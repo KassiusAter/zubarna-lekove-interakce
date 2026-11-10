@@ -54,7 +54,10 @@ Pacient skoro nikdy neřekne účinnou látku. Rychlý převod:
 | Novalgin, Algifen | metamizol | analgetikum |
 | Paralen, Panadol | paracetamol | analgetikum |
 | Ataralgin | paracetamol + guaifenesin + kofein | kombinace |
-| Prestarium, Perinalon | perindopril | ACEI |
+| Prestarium, Prestarium Neo, Perinalon | perindopril | ACEI |
+| **Prestarium Neo Combi, Noliprel** | perindopril + **indapamid** | ACEI + **diuretikum** |
+| **Triplixam** | perindopril + indapamid + amlodipin | ACEI + **diuretikum** + BKK |
+| Prestance | perindopril + amlodipin | ACEI + BKK |
 | Concor | bisoprolol (kardioselektivní) | betablokátor |
 | Vasocardin, Betaloc | metoprolol (kardioselektivní) | betablokátor |
 | Trombex, Godasal — pozor na záměnu | — | ověř vždy |
@@ -66,6 +69,12 @@ Pacient skoro nikdy neřekne účinnou látku. Rychlý převod:
 
 > Kardioselektivní betablokátory (bisoprolol, metoprolol, atenolol) mají s adrenalinem
 > **menší** riziko než neselektivní (propranolol, sotalol) — viz sekce 2.
+
+> **Pozor na fixní kombinace s diuretikem.** Pacient řekne „beru Prestarium" a ty nevíš, jestli
+> jde o samotný perindopril, nebo o Combi s indapamidem. Rozdíl je zásadní: přidáním NSAID
+> vznikne v druhém případě rovnou „triple whammy" (sekce 4). **Ptej se na přesný název balení**,
+> nebo si ho nech ukázat. Totéž platí u sartanů (Valsacombi, Co-Diovan, Lorista H, Micardis Plus
+> a další „H" / „plus" / „combi" varianty obsahují hydrochlorothiazid).
 
 ---
 
@@ -211,13 +220,35 @@ samotná profylaxe.**
 | Kombinace | Riziko | Poznámka |
 |---|---|---|
 | NSAID + warfarin / DOAC / antiagregans | 🔴 krvácení | **Preferuj paracetamol.** Nutné-li NSAID, krátce a s gastroprotekcí. |
-| NSAID + ACEI/sartan + diuretikum ("triple whammy") | 🔴 akutní poškození ledvin | Velmi častá kombinace u starších hypertoniků — sáhni po paracetamolu. |
+| NSAID + ACEI/sartan + diuretikum ("triple whammy") | 🔴 akutní poškození ledvin | Velmi častá kombinace u starších hypertoniků — sáhni po paracetamolu. Viz rámeček níže. |
+| NSAID + ACEI/sartan **bez** diuretika | 🟡 riziko nižší, ale reálné | Krátká kúra u hydratovaného pacienta s dobrými ledvinami obvykle snesitelná. Stále preferuj paracetamol. |
 | NSAID + lithium | 🔴 zvýšení hladiny lithia, toxicita | Vyhni se, konzultuj psychiatra. |
 | NSAID + **vysokodávkovaný** MTX | 🔴 snížená clearance MTX | Onkologičtí pacienti — vyhnout se. |
 | NSAID + nízkodávkovaný MTX | 🟡 obvykle tolerováno | Krátkodobě, při normální funkci ledvin. |
 | NSAID + SSRI/SNRI | 🟡 zvýšené riziko GI krvácení | Zvaž gastroprotekci. |
 | Paracetamol + warfarin (vyšší dávky dlouhodobě) | 🟡 mírné zvýšení INR | Krátkodobá běžná dávka je nízké riziko. |
 | Metamizol (Novalgin) | 🟡 agranulocytóza (vzácná, závažná) | Pouč pacienta: horečka, bolest v krku, afty → okamžitě vysadit a na kontrolu. |
+
+### „Triple whammy" — jak velké riziko to vlastně je
+
+**Mechanismus:** NSAID zruší prostaglandinovou vazodilataci *vas afferens*, ACEI/sartan zruší
+angiotensinem II řízenou konstrikci *vas efferens* → zhroutí se autoregulace GFR. Diuretikum
+přidá hypovolemii. Výsledek je prerenální AKI.
+
+**Čísla:** velká kohortová studie (BMJ) našla u trojkombinace **+31 % rizika poškození ledvin**,
+v **prvním měsíci +82 %**. Dvojkombinace ACEI/sartan + NSAID sama signifikantní nebyla. **[?]**
+Pro *krátkou* kúru (3–5 dní) data chybí — rizikové se zdá hlavně zahájení trvalé kombinace.
+Modelové práce ukazují jako klíčový spouštěč **dehydrataci**.
+
+Dál: NSAID tlumí antihypertenzní efekt ACEI (retence sodíku) a spolu s ním zvyšuje kalemii.
+
+**Když ibuprofen opravdu potřebuješ a diuretikum tam není:** 400 mg à 8 h, **max. 3 dny**,
+s jídlem, zajistit příjem tekutin, poučit o varovných příznacích (pokles diurézy, otoky,
+výrazná slabost → vysadit a ke praktikovi).
+
+**Ibuprofen nedávej vůbec**, pokud je přítomné kterékoli z toho: diuretikum (indapamid, HCT,
+furosemid, spironolakton), věk nad ~75 let, známá CKD, srdeční selhání, probíhající
+zvracení/průjem, souběžně sartan.
 
 > **Nejčastější chairside chyba:** automaticky předepsat ibuprofen. U kardiaka na antikoagulaci,
 > u pacienta na ACEI + diuretiku a u renální insuficience je **paracetamol jasně bezpečnější**
