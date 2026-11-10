@@ -35,7 +35,18 @@ rozcházejí — ty ověřujte přednostně.
 - Antikoagulancia a antiagregancia u extrakcí (warfarin, DOAC)
 - Bisfosfonáty, denosumab a riziko MRONJ
 - Sedace, antimykotika
-- Předepisování v těhotenství a při kojení
+- Předepisování v těhotenství, při kojení, u dětí a při snížené funkci ledvin
+
+## Jak skill hlídá spolehlivost
+
+- Každá odpověď začíná řádkem **Rozpoznáno** (přípravek → účinná látka → skupina), aby byla
+  hned vidět případná záměna léku.
+- U každého tvrzení je štítek původu: `přehled`, `ověřeno dnes` (přečteno v primárním zdroji),
+  nebo `model` (obecná znalost bez opory).
+- Každá sekce přehledu má řádek **Stav**: odkud pochází, zda byla porovnána s originálem zdroje
+  a zda ji validoval lékař.
+- [`tests/testovaci_dotazy.md`](tests/testovaci_dotazy.md) obsahuje kontrolní dotazy
+  s očekávanými body odpovědi — projít po každé větší úpravě.
 
 ## Obsah repozitáře
 
@@ -51,10 +62,11 @@ rozcházejí — ty ověřujte přednostně.
 - [SDCEP — Management of Dental Patients Taking Anticoagulants or Antiplatelet Drugs](https://www.sdcep.org.uk/published-guidance/)
 - [Česká stomatologická komora](https://www.dent.cz/) / [časopis LKS](https://www.lks-casopis.cz/) —
   odborné stanovisko č. 1/2023 k racionální indikaci systémových antibiotik
-- [Česká kardiologická společnost — profylaxe infekční endokarditidy (2024)](https://infektologie.cz/standardy2/)
+- [Česká kardiologická společnost](https://www.kardio-cz.cz/) — profylaxe infekční endokarditidy (ESC 2023, česká verze 2024)
 
 **Lékové databáze:**
 - [SÚKL — Databáze léčivých přípravků](https://prehledy.sukl.cz/prehled_leciv.html) — české SPC
+  (stránka se načítá skriptem, AI asistent ji obvykle nepřečte — skill na ni jen odkazuje)
 - [SÚKL — otevřená data](https://opendata.sukl.cz/) — DLP a SPC jako CSV a REST API
 - [EMA](https://www.ema.europa.eu/) — evropské SmPC
 - [Medscape Drug Interaction Checker](https://reference.medscape.com/drug-interactionchecker)
@@ -71,6 +83,14 @@ git clone https://github.com/KassiusAter/zubarna-lekove-interakce.git ~/.claude/
 ```
 
 Skill se pak automaticky nabídne v seznamu dostupných skillů.
+
+## Jak použít v aplikaci Claude (web, iPhone, Android)
+
+1. Spusťte `./build_zip.sh` — vytvoří `dist/zubarna.zip` (jen `SKILL.md` a `reference/`).
+2. Na webu claude.ai otevřete nastavení skillů a soubor ZIP nahrajte.
+3. Skill je pak dostupný i v mobilní aplikaci pod stejným účtem.
+
+Po každé úpravě přehledu je potřeba ZIP vytvořit a nahrát znovu.
 
 ## Licence
 
