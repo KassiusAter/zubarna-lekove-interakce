@@ -127,6 +127,15 @@ těhotenství/kojení, ledviny/játra, hmotnost u dětí a drobných seniorů.
 | Colchicum-Dispert | kolchicin | antiuratikum |
 | Paxlovid | nirmatrelvir + ritonavir | antivirotikum, silný inhibitor CYP3A4 |
 
+### Lokální anestetika — **[?] ředění adrenalinu vždy ověř na karpuli**
+
+| Obchodní název | Účinná látka | Adrenalin |
+|---|---|---|
+| Supracain 4 % | artikain + adrenalin | 1 : 200 000 |
+| Ubistesin | artikain 4 % + adrenalin | 1 : 200 000 |
+| Ubistesin forte | artikain 4 % + adrenalin | 1 : 100 000 |
+| Septanest s adrenalinem | artikain 4 % + adrenalin | 1 : 100 000 nebo 1 : 200 000 podle varianty |
+
 ### Antibiotika, antimykotika, sedace
 
 | Obchodní název | Účinná látka | Skupina |
